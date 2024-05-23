@@ -1,0 +1,35 @@
+name: Update table data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set env CHANGED
+        run: echo "CHANGED=false" >> "$GITHUB_ENV"
+
+      - name: Get repo
+        uses: actions/checkout@v3
+
+      - name: Download facilities.json
+        uses: wei/wget@v1
+        with:
+          args: -O facilities_new.json https://innosoftfusiongo.com/schools/school140/facilities.json
+
+      - name: Check differences
+        run: cmp --silent facilities.json facilities_new.json || echo "CHANGED=true" >> "$GITHUB_ENV" && mv facilities_new.json facilities.json 
+
+      - name: Commit changes (if there are any)
+        if: env.CHANGED == 'true'
+        run: |
+          git config --global user.name 'Github Actions'
+          git config --global user.email 'github-actions@users.noreply.github.com'
+          git commit -am "Updated table data"
+          git push
