@@ -3,7 +3,7 @@ name: Update table data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
   push:
     branches:
       - main
