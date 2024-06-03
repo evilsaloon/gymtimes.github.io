@@ -201,13 +201,13 @@
 			"email":"stonevalley@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
 			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"12pm-7pm",
-			"hours4":"12pm-7pm",
-			"hours5":"12pm-7pm",
-			"hours6":"10am-7pm",
-			"hours7":"10am-7pm",
-			"updated":"2024-05-06"
+			"hours2":"12pm-8pm",
+			"hours3":"10am-8pm",
+			"hours4":"12pm-8pm",
+			"hours5":"10am-8pm",
+			"hours6":"10am-8pm",
+			"hours7":"10am-8pm",
+			"updated":"2024-06-03"
 		}
 		,				{
 			"id":"588",
