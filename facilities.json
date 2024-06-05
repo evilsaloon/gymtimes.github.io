@@ -221,12 +221,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"8am-5pm",
 			"hours2":"8am-5pm",
-			"hours3":"8am-5pm",
-			"hours4":"8am-5pm",
-			"hours5":"8am-8pm",
-			"hours6":"8am-8pm",
+			"hours3":"CLOSED (6/5)",
+			"hours4":"CLOSED (6/6)",
+			"hours5":"CLOSED (6/7)",
+			"hours6":"CLOSED (6/8)",
 			"hours7":"8am-8pm",
-			"updated":"2024-04-29"
+			"updated":"2024-06-05"
 		}
 		,				{
 			"id":"589",
