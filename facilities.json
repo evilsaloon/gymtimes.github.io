@@ -12,12 +12,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6am-9pm",
 			"hours2":"6am-9pm",
-			"hours3":"8am-5pm (6/19)",
+			"hours3":"6am-9pm",
 			"hours4":"6am-9pm",
 			"hours5":"6am-9pm",
 			"hours6":"8am-8pm",
 			"hours7":"9am-9pm",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"1110",
@@ -31,12 +31,12 @@
 			"website":"",
 			"hours1":"11am-7pm",
 			"hours2":"11am-7pm",
-			"hours3":"11am-4pm (6/19)",
+			"hours3":"11am-7pm",
 			"hours4":"11am-7pm",
 			"hours5":"11am-7pm",
 			"hours6":"11am-5pm",
 			"hours7":"11am-5pm",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"1143",
@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (6/17)",
+			"hours1":"5pm-9pm",
 			"hours2":"5pm-9pm",
-			"hours3":"CLOSED (6/19)",
+			"hours3":"5pm-9pm",
 			"hours4":"5pm-9pm",
 			"hours5":"CLOSED",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"1142",
@@ -107,12 +107,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"11am-1pm",
 			"hours2":"11am-1pm",
-			"hours3":"CLOSED (6/19)",
+			"hours3":"11am-1pm",
 			"hours4":"11am-1pm",
 			"hours5":"11am-1pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"1085",
@@ -126,12 +126,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"12pm-8pm",
 			"hours2":"12pm-8pm",
-			"hours3":"CLOSED (6/19)",
+			"hours3":"12pm-8pm",
 			"hours4":"12pm-8pm",
 			"hours5":"12pm-8pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"585",
@@ -205,9 +205,9 @@
 			"hours3":"10am-8pm",
 			"hours4":"12pm-8pm",
 			"hours5":"10am-8pm",
-			"hours6":"10am-8pm",
+			"hours6":"9:30am-8pm",
 			"hours7":"10am-8pm",
-			"updated":"2024-06-13"
+			"updated":"2024-06-20"
 		}
 		,				{
 			"id":"588",
