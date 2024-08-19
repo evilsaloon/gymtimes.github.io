@@ -14,10 +14,10 @@
 			"hours2":"6am-9pm",
 			"hours3":"6am-9pm",
 			"hours4":"6am-9pm",
-			"hours5":"6am-9pm",
-			"hours6":"8am-8pm",
-			"hours7":"9am-9pm",
-			"updated":"2024-07-05"
+			"hours5":"2pm-9pm (8/23)",
+			"hours6":"2pm-9pm (8/24)",
+			"hours7":"2pm-12am (8/25)",
+			"updated":"2024-08-19"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"11am-7pm",
 			"hours3":"11am-7pm",
 			"hours4":"11am-7pm",
-			"hours5":"11am-7pm",
-			"hours6":"11am-5pm",
-			"hours7":"11am-5pm",
-			"updated":"2024-07-05"
+			"hours5":"2pm-7pm (8/23)",
+			"hours6":"2pm-6pm (8/24)",
+			"hours7":"2pm-6pm (8/25)",
+			"updated":"2024-08-19"
 		}
 		,				{
 			"id":"1143",
@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"5pm-9pm",
-			"hours2":"5pm-9pm",
-			"hours3":"5pm-9pm",
-			"hours4":"5pm-9pm",
+			"hours1":"4pm-9pm",
+			"hours2":"4pm-9pm",
+			"hours3":"4pm-9pm",
+			"hours4":"4pm-9pm",
 			"hours5":"CLOSED",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-07-05"
+			"updated":"2024-08-19"
 		}
 		,				{
 			"id":"1142",
