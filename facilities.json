@@ -191,8 +191,27 @@
 			"updated":"2024-08-23"
 		}
 		,				{
+			"id":"1197",
+			"facilityname":"11. Outdoor Pickleball Courts",
+			"facilityaddress":"Curtin Rd, State College, PA 16802",
+			"latitude":"40.80509",
+			"longitude":"-77.86005",
+			"title":"Fall 2024 Hours",
+			"phonecall":"(814)865-1351",
+			"email":"tenniscenter@psu.edu",
+			"website":"",
+			"hours1":"Dawn-Dusk",
+			"hours2":"Dawn-Dusk",
+			"hours3":"Dawn-Dusk",
+			"hours4":"Dawn-Dusk",
+			"hours5":"Dawn-Dusk",
+			"hours6":"Dawn-Dusk",
+			"hours7":"Dawn-Dusk",
+			"updated":"2024-08-26"
+		}
+		,				{
 			"id":"586",
-			"facilityname":"11. Stone Valley Boat Rentals",
+			"facilityname":"12. Stone Valley Boat Rentals",
 			"facilityaddress":"Stone Valley Recreation Area, Charter Oak Road, Petersburg, Barree Township, PA 16669",
 			"latitude":"40.663274",
 			"longitude":"-77.912275",
@@ -207,11 +226,11 @@
 			"hours5":"10am-8pm",
 			"hours6":"9:30am-8pm",
 			"hours7":"10am-8pm",
-			"updated":"2024-07-05"
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"588",
-			"facilityname":"12. Park Avenue Fields",
+			"facilityname":"13. Park Avenue Fields",
 			"facilityaddress":"101 Intramural (IM) Building University Park, PA 16802",
 			"latitude":"40.809392",
 			"longitude":"77.86405",
@@ -226,11 +245,11 @@
 			"hours5":"8am-8pm",
 			"hours6":"8am-8pm",
 			"hours7":"8am-8pm",
-			"updated":"2024-06-13"
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"589",
-			"facilityname":"13. West Turf Fields",
+			"facilityname":"14. West Turf Fields",
 			"facilityaddress":"101 Intramural (IM) Building University Park, PA 16802",
 			"latitude":"40.793336",
 			"longitude":"-77.871529",
@@ -245,7 +264,7 @@
 			"hours5":"CLOSED",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-07-05"
+			"updated":"2024-08-26"
 		}
 					]
 }
