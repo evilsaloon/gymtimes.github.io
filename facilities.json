@@ -14,10 +14,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"2pm-9pm (8/23)",
-			"hours6":"2pm-9pm (8/24)",
-			"hours7":"2pm-12am (8/25)",
-			"updated":"2024-08-23"
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"6 am-8 pm",
 			"hours3":"6 am-8 pm",
 			"hours4":"6 am-8 pm",
-			"hours5":"2pm-7pm (8/23)",
-			"hours6":"2pm-6pm (8/24)",
-			"hours7":"2pm-6pm (8/25)",
-			"updated":"2024-08-23"
+			"hours5":"6 am-8 pm",
+			"hours6":"8 am-6pm",
+			"hours7":"9 am-6 pm",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1143",
@@ -52,10 +52,10 @@
 			"hours2":"12pm-6pm",
 			"hours3":"12pm-6pm",
 			"hours4":"12pm-6pm",
-			"hours5":"1pm-5pm (8/23)",
+			"hours5":"12pm-6pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2024-08-23"
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1141",
@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (8/26)",
+			"hours1":"CLOSED",
 			"hours2":"6 pm-11 pm",
 			"hours3":"6 pm-11 pm",
 			"hours4":"6 pm-11 pm",
-			"hours5":"CLOSED (8/23)",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"CLOSED (8/25)",
-			"updated":"2024-08-23"
+			"hours5":"6 pm-11 pm",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1142",
@@ -86,14 +86,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (8/26)",
+			"hours1":"CLOSED",
 			"hours2":"4 pm-6 pm",
 			"hours3":"4 pm-6 pm",
 			"hours4":"4 pm-6 pm",
-			"hours5":"CLOSED (8/23)",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"CLOSED (8/25)",
-			"updated":"2024-08-23"
+			"hours5":"4 pm-6 pm",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"583",
@@ -109,10 +109,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"CLOSED (8/23)",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"CLOSED (8/25)",
-			"updated":"2024-08-23"
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1085",
@@ -124,14 +124,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED (8/23)",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"CLOSED (8/25)",
-			"updated":"2024-08-23"
+			"hours1":"11 am-11 pm",
+			"hours2":"11 am-11 pm",
+			"hours3":"11 am-11 pm",
+			"hours4":"11 am-11 pm",
+			"hours5":"11 am-10 pm",
+			"hours6":"11 am-8 pm",
+			"hours7":"11 am-11 pm",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"585",
@@ -162,14 +162,14 @@
 			"phonecall":"814-867-1222",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED (8/23)",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"CLOSED (8/25)",
-			"updated":"2024-08-23"
+			"hours1":"6:30 am-10 pm",
+			"hours2":"6:30 am-10 pm",
+			"hours3":"6:30 am-10 pm",
+			"hours4":"6:30 am-10 pm",
+			"hours5":"6:30 am-10 pm",
+			"hours6":"10 am-7 pm",
+			"hours7":"10 am-7 pm",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"587",
@@ -186,9 +186,9 @@
 			"hours3":"6:30am-9pm",
 			"hours4":"6:30am-9pm",
 			"hours5":"6:30am-9pm",
-			"hours6":"CLOSED (8/24)",
-			"hours7":"2pm-9pm (8/25)",
-			"updated":"2024-08-23"
+			"hours6":"7 am-11 pm",
+			"hours7":"7 am-11 pm",
+			"updated":"2024-08-26"
 		}
 		,				{
 			"id":"1197",
@@ -219,13 +219,13 @@
 			"phonecall":"814-863-1164",
 			"email":"stonevalley@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
-			"hours1":"12pm-5pm",
-			"hours2":"12pm-8pm",
-			"hours3":"10am-8pm",
-			"hours4":"10am-8pm",
-			"hours5":"10am-8pm",
-			"hours6":"9:30am-8pm",
-			"hours7":"10am-8pm",
+			"hours1":"CLOSED",
+			"hours2":"CLOSED",
+			"hours3":"CLOSED",
+			"hours4":"CLOSED",
+			"hours5":"4 pm-7 pm",
+			"hours6":"10am-7pm",
+			"hours7":"10am-7pm",
 			"updated":"2024-08-26"
 		}
 		,				{
@@ -261,9 +261,9 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
+			"hours5":"4 pm-10 pm",
+			"hours6":"11 am-7 pm",
+			"hours7":"11 am-7 pm",
 			"updated":"2024-08-26"
 		}
 					]
