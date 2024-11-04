@@ -34,9 +34,9 @@
 			"hours3":"7:30 am-8 pm",
 			"hours4":"7:30 am-8 pm",
 			"hours5":"7:30 am-8 pm",
-			"hours6":"CLOSED (11/2)",
+			"hours6":"CLOSED (11/9)",
 			"hours7":"9 am-6 pm",
-			"updated":"2024-10-28"
+			"updated":"2024-11-04"
 		}
 		,				{
 			"id":"1143",
@@ -186,9 +186,9 @@
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
 			"hours5":"6:30 am-9 pm",
-			"hours6":"CLOSED (11/2)",
+			"hours6":"CLOSED (11/9)",
 			"hours7":"7 am-11 pm",
-			"updated":"2024-10-28"
+			"updated":"2024-11-04"
 		}
 		,				{
 			"id":"1197",
@@ -205,9 +205,9 @@
 			"hours3":"Dawn-Dusk",
 			"hours4":"Dawn-Dusk",
 			"hours5":"Dawn-Dusk",
-			"hours6":"CLOSED (11/2)",
+			"hours6":"CLOSED (11/9)",
 			"hours7":"Dawn-Dusk",
-			"updated":"2024-10-28"
+			"updated":"2024-11-04"
 		}
 		,				{
 			"id":"586",
@@ -243,9 +243,9 @@
 			"hours3":"8 am-5 pm",
 			"hours4":"8 am-5 pm",
 			"hours5":"8 am-8 pm",
-			"hours6":"CLOSED (11/2)",
+			"hours6":"CLOSED (11/9)",
 			"hours7":"8 am-8 pm",
-			"updated":"2024-10-28"
+			"updated":"2024-11-04"
 		}
 		,				{
 			"id":"589",
@@ -262,9 +262,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"4 pm-10 pm",
-			"hours6":"CLOSED (11/2)",
+			"hours6":"CLOSED (11/9)",
 			"hours7":"11 am-7 pm",
-			"updated":"2024-10-28"
+			"updated":"2024-11-04"
 		}
 					]
 }
