@@ -266,6 +266,44 @@
 			"hours7":"11 am-7 pm",
 			"updated":"2024-11-11"
 		}
+		,				{
+			"id":"1223",
+			"facilityname":"15. Campus Recreation",
+			"facilityaddress":"101 Intramural Building, University Park PA 16802",
+			"latitude":"",
+			"longitude":"",
+			"title":"",
+			"phonecall":"",
+			"email":"",
+			"website":"",
+			"hours1":"",
+			"hours2":"",
+			"hours3":"",
+			"hours4":"",
+			"hours5":"",
+			"hours6":"",
+			"hours7":"",
+			"updated":""
+		}
+		,				{
+			"id":"1224",
+			"facilityname":"16. Campus Recreation",
+			"facilityaddress":"101 Intramural Building, University Park PA 16802",
+			"latitude":"",
+			"longitude":"",
+			"title":"",
+			"phonecall":"",
+			"email":"",
+			"website":"",
+			"hours1":"",
+			"hours2":"",
+			"hours3":"",
+			"hours4":"",
+			"hours5":"",
+			"hours6":"",
+			"hours7":"",
+			"updated":""
+		}
 					]
 }
 						
