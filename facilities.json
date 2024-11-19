@@ -10,14 +10,14 @@
 			"phonecall":"814-867-5479",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6 am-12 am",
+			"hours1":"6 am-7 pm (11/25)",
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
-			"hours7":"9 am-12 am",
-			"updated":"2024-11-11"
+			"hours6":"9 am-7 pm (11/23)",
+			"hours7":"9 am-7 pm (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"1110",
@@ -29,14 +29,14 @@
 			"phonecall":"814-867-1058",
 			"email":"campusrec@psu.edu",
 			"website":"",
-			"hours1":"7:30 am-8 pm",
+			"hours1":"11 am-5 pm (11/25)",
 			"hours2":"7:30 am-8 pm",
 			"hours3":"7:30 am-8 pm",
 			"hours4":"7:30 am-8 pm",
 			"hours5":"7:30 am-8 pm",
-			"hours6":"8 am-6 pm",
-			"hours7":"9 am-6 pm",
-			"updated":"2024-11-11"
+			"hours6":"11 am-5 pm (11/23)",
+			"hours7":"11 am-5 pm (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"1143",
@@ -105,14 +105,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6 am-12 am",
+			"hours1":"CLOSED (11/25)",
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
-			"hours7":"9 am-12 am",
-			"updated":"2024-09-30"
+			"hours6":"CLOSED (11/23)",
+			"hours7":"CLOSED (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"1085",
@@ -129,9 +129,9 @@
 			"hours3":"11 am-11 pm",
 			"hours4":"11 am-11 pm",
 			"hours5":"11 am-10 pm",
-			"hours6":"11 am-8 pm",
-			"hours7":"11 am-11 pm",
-			"updated":"2024-09-30"
+			"hours6":"CLOSED (11/23)",
+			"hours7":"CLOSED (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"585",
@@ -162,14 +162,14 @@
 			"phonecall":"814-867-1222",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6:30 am-10 pm",
+			"hours1":"CLOSED (11/25)",
 			"hours2":"6:30 am-10 pm",
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
 			"hours5":"6:30 am-10 pm",
-			"hours6":"10 am - 7 pm",
-			"hours7":"10 am-7 pm",
-			"updated":"2024-11-11"
+			"hours6":"CLOSED (11/23)",
+			"hours7":"CLOSED (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"587",
@@ -181,14 +181,14 @@
 			"phonecall":"814-865-1381",
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
-			"hours1":"6:30 am-9 pm",
+			"hours1":"9 am-7 pm (11/25)",
 			"hours2":"6:30 am-9 pm",
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
 			"hours5":"6:30 am-9 pm",
-			"hours6":"7 am-11 pm",
-			"hours7":"7 am-11 pm",
-			"updated":"2024-11-11"
+			"hours6":"9 am-7 pm (11/23)",
+			"hours7":"9 am-7 pm (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"1197",
@@ -262,9 +262,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"4 pm-10 pm",
-			"hours6":"11 am-7 pm",
-			"hours7":"11 am-7 pm",
-			"updated":"2024-11-11"
+			"hours6":"CLOSED (11/23)",
+			"hours7":"CLOSED (11/24)",
+			"updated":"2024-11-19"
 		}
 		,				{
 			"id":"1223",
