@@ -12,12 +12,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6:30 am-5 pm (12/23)",
 			"hours2":"CLOSED (12/24)",
-			"hours3":"6 am-9 pm (12/18)",
-			"hours4":"6 am-8 pm (12/19)",
+			"hours3":"CLOSED (12/25)",
+			"hours4":"CLOSED (12/26)",
 			"hours5":"6 am-6 pm (12/20)",
 			"hours6":"CLOSED (12/21)",
 			"hours7":"9 am-5 pm (12/22)",
-			"updated":"2024-12-18"
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1110",
@@ -31,12 +31,12 @@
 			"website":"",
 			"hours1":"11 am-3 pm (12/23)",
 			"hours2":"CLOSED (12/24)",
-			"hours3":"7:30 am-7 pm (12/18)",
-			"hours4":"7:30 am-7 pm (12/19)",
+			"hours3":"CLOSED (12/25)",
+			"hours4":"CLOSED (12/26)",
 			"hours5":"7:30 am-5 pm (12/20)",
 			"hours6":"CLOSED (12/21)",
 			"hours7":"9 am-3 pm (12/22)",
-			"updated":"2024-12-18"
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1143",
@@ -48,14 +48,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"12 pm-6 pm (12/18)",
-			"hours4":"12 pm-6 pm (12/19)",
-			"hours5":"12 pm-6 pm (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED",
+			"hours2":"CLOSED",
+			"hours3":"CLOSED",
+			"hours4":"CLOSED",
+			"hours5":"CLOSED",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1141",
@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"4 pm-8 pm (12/18)",
-			"hours4":"4 pm-8 pm (12/19)",
-			"hours5":"CLOSED (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED",
+			"hours2":"CLOSED",
+			"hours3":"CLOSED",
+			"hours4":"CLOSED",
+			"hours5":"CLOSED",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1142",
@@ -86,14 +86,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"4 pm-6 pm (12/18)",
-			"hours4":"4 pm-6 pm (12/19)",
-			"hours5":"CLOSED (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED",
+			"hours2":"CLOSED",
+			"hours3":"CLOSED",
+			"hours4":"CLOSED",
+			"hours5":"CLOSED",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"583",
@@ -105,14 +105,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"6 am-9 pm (12/18)",
-			"hours4":"CLOSED (12/19)",
-			"hours5":"CLOSED (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED UNTIL 1/13",
+			"hours2":"CLOSED UNTIL 1/13",
+			"hours3":"CLOSED UNTIL 1/13",
+			"hours4":"CLOSED UNTIL 1/13",
+			"hours5":"CLOSED UNTIL 1/13",
+			"hours6":"CLOSED UNTIL 1/13",
+			"hours7":"CLOSED UNTIL 1/13",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1085",
@@ -124,14 +124,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"11 am-8 pm (12/18)",
-			"hours4":"CLOSED (12/19)",
-			"hours5":"CLOSED (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED UNTIL 1/13",
+			"hours2":"CLOSED UNTIL 1/13",
+			"hours3":"CLOSED UNTIL 1/13",
+			"hours4":"CLOSED UNTIL 1/13",
+			"hours5":"CLOSED UNTIL 1/13",
+			"hours6":"CLOSED UNTIL 1/13",
+			"hours7":"CLOSED UNTIL 1/13",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"585",
@@ -162,14 +162,14 @@
 			"phonecall":"814-867-1222",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"CLOSED (12/18)",
-			"hours4":"CLOSED (12/19)",
-			"hours5":"CLOSED (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"CLOSED (12/22)",
-			"updated":"2024-12-18"
+			"hours1":"CLOSED UNTIL 1/13",
+			"hours2":"CLOSED UNTIL 1/13",
+			"hours3":"CLOSED UNTIL 1/13",
+			"hours4":"CLOSED UNTIL 1/13",
+			"hours5":"CLOSED UNTIL 1/13",
+			"hours6":"CLOSED UNTIL 1/13",
+			"hours7":"CLOSED UNTIL 1/13",
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"587",
@@ -183,12 +183,12 @@
 			"website":"https://reservemycourt.com/login",
 			"hours1":"9 am-5 pm (12/23)",
 			"hours2":"CLOSED (12/24)",
-			"hours3":"6:30 am-9 pm (12/18)",
-			"hours4":"6:30 am-9 pm (12/19)",
+			"hours3":"CLOSED (12/25)",
+			"hours4":"CLOSED (12/26)",
 			"hours5":"6:30 am-9 pm (12/20)",
 			"hours6":"CLOSED (12/21)",
 			"hours7":"9 am-7 pm (12/22)",
-			"updated":"2024-12-18"
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"1197",
@@ -200,14 +200,14 @@
 			"phonecall":"(814)865-1351",
 			"email":"tenniscenter@psu.edu",
 			"website":"",
-			"hours1":"CLOSED (12/23)",
-			"hours2":"CLOSED (12/24)",
+			"hours1":"Dawn-Dusk",
+			"hours2":"Dawn-Dusk",
 			"hours3":"Dawn-Dusk",
 			"hours4":"Dawn-Dusk",
 			"hours5":"Dawn-Dusk",
-			"hours6":"CLOSED (12/21)",
+			"hours6":"Dawn-Dusk",
 			"hours7":"Dawn-Dusk",
-			"updated":"2024-12-18"
+			"updated":"2024-12-20"
 		}
 		,				{
 			"id":"586",
