@@ -11,13 +11,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6:30 am-5 pm (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"CLOSED (12/25)",
-			"hours4":"CLOSED (12/26)",
-			"hours5":"6 am-6 pm (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"9 am-5 pm (12/22)",
-			"updated":"2024-12-20"
+			"hours2":"CLOSED (12/24-1/1)",
+			"hours3":"CLOSED (12/24-1/1)",
+			"hours4":"CLOSED (12/24-1/1)",
+			"hours5":"CLOSED (12/24-1/1)",
+			"hours6":"CLOSED (12/24-1/1)",
+			"hours7":"CLOSED (12/24-1/1)",
+			"updated":"2024-12-23"
 		}
 		,				{
 			"id":"1110",
@@ -30,13 +30,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"",
 			"hours1":"11 am-3 pm (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"CLOSED (12/25)",
-			"hours4":"CLOSED (12/26)",
-			"hours5":"7:30 am-5 pm (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"9 am-3 pm (12/22)",
-			"updated":"2024-12-20"
+			"hours2":"CLOSED (12/24-1/1)",
+			"hours3":"CLOSED (12/24-1/1)",
+			"hours4":"CLOSED (12/24-1/1)",
+			"hours5":"CLOSED (12/24-1/1)",
+			"hours6":"CLOSED (12/24-1/1)",
+			"hours7":"CLOSED (12/24-1/1)",
+			"updated":"2024-12-23"
 		}
 		,				{
 			"id":"1143",
@@ -182,13 +182,13 @@
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
 			"hours1":"9 am-5 pm (12/23)",
-			"hours2":"CLOSED (12/24)",
-			"hours3":"CLOSED (12/25)",
-			"hours4":"CLOSED (12/26)",
-			"hours5":"6:30 am-9 pm (12/20)",
-			"hours6":"CLOSED (12/21)",
-			"hours7":"9 am-7 pm (12/22)",
-			"updated":"2024-12-20"
+			"hours2":"CLOSED (12/24-1/1)",
+			"hours3":"CLOSED (12/24-1/1)",
+			"hours4":"CLOSED (12/24-1/1)",
+			"hours5":"CLOSED (12/24-1/1)",
+			"hours6":"CLOSED (12/24-1/1)",
+			"hours7":"CLOSED (12/24-1/1)",
+			"updated":"2024-12-23"
 		}
 		,				{
 			"id":"1197",
