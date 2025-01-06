@@ -14,10 +14,10 @@
 			"hours2":"6:30 am-7 pm (1/7)",
 			"hours3":"6:30 am-7 pm (1/8)",
 			"hours4":"6:30 am-7 pm (1/9)",
-			"hours5":"6:30 am-7 pm (1/3)",
-			"hours6":"9 am-5 pm (1/4)",
-			"hours7":"9 am-5 pm (1/5)",
-			"updated":"2025-01-03"
+			"hours5":"6:30 am-7 pm (1/10)",
+			"hours6":"9 am-5 pm (1/11)",
+			"hours7":"9 am-12 am (1/12)",
+			"updated":"2025-01-06"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"11 am-5 pm (1/7)",
 			"hours3":"11 am-5 pm (1/8)",
 			"hours4":"11 am-5 pm (1/9)",
-			"hours5":"11 am-5 pm (1/3)",
-			"hours6":"9 am-3 pm (1/4)",
-			"hours7":"9 am-3 pm (1/5)",
-			"updated":"2025-01-03"
+			"hours5":"11 am-5 pm (1/10)",
+			"hours6":"9 am-3 pm (1/11)",
+			"hours7":"9 am-6 pm (1/12)",
+			"updated":"2025-01-06"
 		}
 		,				{
 			"id":"1143",
@@ -185,10 +185,10 @@
 			"hours2":"9 am-7 pm (1/7)",
 			"hours3":"9 am-7 pm (1/8)",
 			"hours4":"9 am-7 pm (1/9)",
-			"hours5":"9 am-7 pm (1/3)",
-			"hours6":"9 am-7 pm (1/4)",
-			"hours7":"9 am-7 pm (1/5)",
-			"updated":"2025-01-03"
+			"hours5":"9 am-7 pm (1/10)",
+			"hours6":"9 am-7 pm (1/11)",
+			"hours7":"9 am-7 pm (1/12)",
+			"updated":"2025-01-06"
 		}
 		,				{
 			"id":"1197",
