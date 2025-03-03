@@ -14,10 +14,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
-			"hours7":"9 am-12 am",
-			"updated":"2025-02-07"
+			"hours5":"6 am-7 pm (3/7)",
+			"hours6":"9 am-7 pm (3/8)",
+			"hours7":"9 am-7 pm (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"7:30 am- 8 pm",
 			"hours3":"7:30 am-8 pm",
 			"hours4":"7:30 am- 8 pm",
-			"hours5":"7:30 am-8 pm",
-			"hours6":"8 am-6 pm",
-			"hours7":"9 am-6 pm",
-			"updated":"2025-02-07"
+			"hours5":"7:30 am-6 pm (3/7)",
+			"hours6":"9 am-5 pm (3/8)",
+			"hours7":"9 am-5 pm (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"1143",
@@ -109,10 +109,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
-			"hours7":"9 am-12 am",
-			"updated":"2025-02-07"
+			"hours5":"6 am-7 pm (3/7)",
+			"hours6":"CLOSED (3/8)",
+			"hours7":"CLOSED (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"1085",
@@ -128,10 +128,10 @@
 			"hours2":"11 am-11 pm",
 			"hours3":"11 am-11 pm",
 			"hours4":"11 am-11 pm",
-			"hours5":"11 am-10 pm",
-			"hours6":"11 am-8 pm",
-			"hours7":"11 am-11 pm",
-			"updated":"2025-02-07"
+			"hours5":"11 am-6 pm (3/7)",
+			"hours6":"CLOSED (3/8)",
+			"hours7":"CLOSED (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"585",
@@ -166,10 +166,10 @@
 			"hours2":"6:30 am-10 pm",
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
-			"hours5":"6:30 am-10 pm",
-			"hours6":"10 am-7 pm",
-			"hours7":"10 am-7 pm",
-			"updated":"2025-02-07"
+			"hours5":"6:30 am-7 pm (3/7)",
+			"hours6":"CLOSED (3/8)",
+			"hours7":"CLOSED (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"587",
@@ -185,10 +185,10 @@
 			"hours2":"6:30 am-11 pm",
 			"hours3":"6:30 am-11 pm",
 			"hours4":"6:30 am-11 pm",
-			"hours5":"6:30 am- 9 pm",
-			"hours6":"7 am-11 pm",
-			"hours7":"7 am-11 pm",
-			"updated":"2025-02-07"
+			"hours5":"6:30 am- 7 pm (3/7)",
+			"hours6":"9 am-7 pm (3/8)",
+			"hours7":"9 am-7 pm (3/9)",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"1197",
@@ -211,7 +211,7 @@
 		}
 		,				{
 			"id":"586",
-			"facilityname":"12. Stone Valley Cross Country Ski Rentals",
+			"facilityname":"12. Stone Valley Boat Rentals",
 			"facilityaddress":"Stone Valley Recreation Area, Charter Oak Road, Petersburg, Barree Township, PA 16669",
 			"latitude":"40.663274",
 			"longitude":"-77.912275",
@@ -224,9 +224,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"CLOSED",
-			"hours6":"10 a-4 p (pend snow)",
-			"hours7":"10 a-4 p (pend snow)",
-			"updated":"2025-01-12"
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2025-03-03"
 		}
 		,				{
 			"id":"588",
