@@ -29,14 +29,14 @@
 			"phonecall":"814-867-1058",
 			"email":"campusrec@psu.edu",
 			"website":"",
-			"hours1":"11 am-5 pm (3/10)",
-			"hours2":"11 am-5 pm (3/11)",
-			"hours3":"11 am-5 pm (3/12)",
-			"hours4":"11 am-5 pm (3/13)",
-			"hours5":"7:30 am-6 pm (3/7)",
-			"hours6":"9 am-5 pm (3/8)",
-			"hours7":"9 am-5 pm (3/9)",
-			"updated":"2025-03-07"
+			"hours1":"7:30 am-8 pm",
+			"hours2":"7:30 am-8 pm",
+			"hours3":"7:30 am-8 pm",
+			"hours4":"7:30 am-8 pm",
+			"hours5":"7:30 am-8 pm",
+			"hours6":"8 am-6 pm",
+			"hours7":"9 am-6 pm",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1143",
@@ -48,14 +48,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
-			"hours1":"CLOSED (3/10)",
-			"hours2":"CLOSED (3/11)",
-			"hours3":"CLOSED (3/12)",
-			"hours4":"CLOSED (3/13)",
+			"hours1":"12 pm-6 pm",
+			"hours2":"12 pm-6 pm",
+			"hours3":"12 pm-6 pm",
+			"hours4":"12 pm-6 pm",
 			"hours5":"12 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-03-07"
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1141",
@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (3/10)",
-			"hours2":"CLOSED (3/11)",
-			"hours3":"CLOSED (3/12)",
+			"hours1":"CLOSED",
+			"hours2":"6-11 pm",
+			"hours3":"6-11 pm",
 			"hours4":"6-11 pm",
-			"hours5":"4-7 pm (3/7)",
+			"hours5":"6-11 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-03-06"
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1142",
@@ -86,14 +86,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures/indoor-climbing",
-			"hours1":"CLOSED (3/10)",
-			"hours2":"CLOSED (3/11)",
-			"hours3":"CLOSED (3/12)",
-			"hours4":"CLOSED (3/13)",
-			"hours5":"OPEN REC ONLY (3/7)",
+			"hours1":"CLOSED",
+			"hours2":"4 pm-6 pm",
+			"hours3":"4 pm-6 pm",
+			"hours4":"4 pm-6 pm",
+			"hours5":"4 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-03-07"
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"583",
@@ -124,14 +124,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"1 pm-6 pm (3/10)",
-			"hours2":"1 pm-6 pm (3/11)",
-			"hours3":"1 pm-6 pm (3/12)",
-			"hours4":"1 pm-6 pm (3/13)",
-			"hours5":"11 am-6 pm (3/7)",
-			"hours6":"CLOSED (3/8)",
-			"hours7":"CLOSED (3/9)",
-			"updated":"2025-03-07"
+			"hours1":"11 am-11 pm",
+			"hours2":"11 am-11 pm",
+			"hours3":"11 am-11 pm",
+			"hours4":"11 am-11 pm",
+			"hours5":"11 am-10 pm",
+			"hours6":"11 am-8 pm",
+			"hours7":"11 am-11 pm",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"585",
@@ -162,11 +162,11 @@
 			"phonecall":"814-867-1222",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6:30am-10pm",
-			"hours2":"6:30am-10pm",
-			"hours3":"6:30am-10pm",
-			"hours4":"6:30am-10pm",
-			"hours5":"6:30am-10pm",
+			"hours1":"6:30 am-10 pm",
+			"hours2":"6:30 am-10 pm",
+			"hours3":"6:30 am-10 pm",
+			"hours4":"6:30 am-10 pm",
+			"hours5":"6:30 am-10 pm",
 			"hours6":"10 am-7 pm",
 			"hours7":"10 am-7 pm",
 			"updated":"2025-03-18"
@@ -181,10 +181,10 @@
 			"phonecall":"814-865-1381",
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
-			"hours1":"6:30am-11pm",
-			"hours2":"6:30am-11pm",
-			"hours3":"6:30am-11pm",
-			"hours4":"6:30am-11pm",
+			"hours1":"6:30 am-11 pm",
+			"hours2":"6:30 am-11 pm",
+			"hours3":"6:30 am-11 pm",
+			"hours4":"6:30 am-11 pm",
 			"hours5":"6:30 am-9 pm",
 			"hours6":"7 am-11 pm",
 			"hours7":"7 am-11 pm",
@@ -200,14 +200,14 @@
 			"phonecall":"(814)865-1351",
 			"email":"tenniscenter@psu.edu",
 			"website":"",
-			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-01-02"
+			"hours1":"Dawn-Dusk",
+			"hours2":"Dawn-Dusk",
+			"hours3":"Dawn-Dusk",
+			"hours4":"Dawn-Dusk",
+			"hours5":"Dawn-Dusk",
+			"hours6":"Dawn-Dusk",
+			"hours7":"Dawn-Dusk",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"586",
@@ -261,10 +261,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2024-12-02"
+			"hours5":"4 pm-10 pm",
+			"hours6":"11 am-7 pm",
+			"hours7":"11 am-7 pm",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1223",
