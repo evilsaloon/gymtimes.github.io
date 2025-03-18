@@ -10,14 +10,14 @@
 			"phonecall":"814-867-5479",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6:00 am- 12:00 am",
-			"hours2":"6:00 am- 12:00 am",
-			"hours3":"6:00 am- 12:00 am",
-			"hours4":"6:00 am- 12:00 am",
-			"hours5":"6 am-7 pm (3/14)",
-			"hours6":"9 am-7 pm (3/15)",
-			"hours7":"9 am-12 am (3/16)",
-			"updated":"2025-03-13"
+			"hours1":"6 am- 12 am",
+			"hours2":"6 am- 12 am",
+			"hours3":"6 am- 12 am",
+			"hours4":"6 am- 12 am",
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1110",
@@ -105,14 +105,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6:00 am- 12:00 am",
-			"hours2":"6:00 am- 12:00 am",
-			"hours3":"6:00 am- 12:00 am",
-			"hours4":"6:00 am- 12:00 am",
-			"hours5":"CLOSED (3/14)",
-			"hours6":"CLOSED (3/15)",
-			"hours7":"CLOSED (3/16)",
-			"updated":"2025-03-13"
+			"hours1":"6 am- 12 am",
+			"hours2":"6 am- 12 am",
+			"hours3":"6 am- 12 am",
+			"hours4":"6 am- 12 am",
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1085",
@@ -166,10 +166,10 @@
 			"hours2":"6:30am-10pm",
 			"hours3":"6:30am-10pm",
 			"hours4":"6:30am-10pm",
-			"hours5":"CLOSED (3/14)",
-			"hours6":"CLOSED (3/15)",
-			"hours7":"CLOSED (3/16)",
-			"updated":"2025-03-13"
+			"hours5":"6:30am-10pm",
+			"hours6":"10 am-7 pm",
+			"hours7":"10 am-7 pm",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"587",
@@ -185,10 +185,10 @@
 			"hours2":"6:30am-11pm",
 			"hours3":"6:30am-11pm",
 			"hours4":"6:30am-11pm",
-			"hours5":"9 am- 9 pm (3/14)",
-			"hours6":"9 am-7 pm (3/15)",
-			"hours7":"9 am- 11 pm (3/16)",
-			"updated":"2025-03-13"
+			"hours5":"6:30 am-9 pm",
+			"hours6":"7 am-11 pm",
+			"hours7":"7 am-11 pm",
+			"updated":"2025-03-18"
 		}
 		,				{
 			"id":"1197",
