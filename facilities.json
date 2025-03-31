@@ -224,9 +224,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-03-03"
+			"hours6":"12 pm-6 pm",
+			"hours7":"12 pm-6 pm",
+			"updated":"2025-03-31"
 		}
 		,				{
 			"id":"588",
