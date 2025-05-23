@@ -48,14 +48,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
-			"hours1":"1-5 pm",
-			"hours2":"1-5 pm",
-			"hours3":"CLOSED (5/21)",
-			"hours4":"CLOSED (5/22)",
+			"hours1":"1 pm-5 pm",
+			"hours2":"1 pm-5 pm",
+			"hours3":"1 pm-5 pm",
+			"hours4":"1 pm-5 pm",
 			"hours5":"CLOSED (5/23)",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-05-21"
+			"updated":"2025-05-23"
 		}
 		,				{
 			"id":"1141",
@@ -221,12 +221,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
 			"hours1":"10 am-7 pm (5/26)",
 			"hours2":"12 pm-8 pm",
-			"hours3":"12 pm-7 pm",
-			"hours4":"12 pm-7 pm",
+			"hours3":"10 am-8 pm",
+			"hours4":"12 pm-8 pm",
 			"hours5":"10 am-8 pm",
 			"hours6":"10 am-8 pm",
 			"hours7":"10 am-8 pm",
-			"updated":"2025-05-21"
+			"updated":"2025-05-23"
 		}
 		,				{
 			"id":"588",
