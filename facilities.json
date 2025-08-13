@@ -105,14 +105,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"11 am-1 pm",
-			"hours2":"11 am-1 pm",
-			"hours3":"11 am-1 pm",
+			"hours1":"CLOSED (8/18)",
+			"hours2":"CLOSED (8/19)",
+			"hours3":"CLOSED (8/20)",
 			"hours4":"11 am-1 pm",
 			"hours5":"11 am-1 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-07-08"
+			"updated":"2025-08-13"
 		}
 		,				{
 			"id":"1085",
@@ -124,14 +124,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"12 pm-6 pm",
-			"hours2":"12 pm-6 pm",
+			"hours1":"CLOSED (8/18)",
+			"hours2":"CLOSED (8/19)",
 			"hours3":"12 pm-6 pm",
 			"hours4":"12 pm-6 pm",
 			"hours5":"12 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-07-08"
+			"updated":"2025-08-13"
 		}
 		,				{
 			"id":"585",
