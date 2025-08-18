@@ -14,10 +14,10 @@
 			"hours2":"6 am-9 pm",
 			"hours3":"6 am-9 pm",
 			"hours4":"6 am-9 pm",
-			"hours5":"6 am-9 pm",
-			"hours6":"8 am-8 pm",
-			"hours7":"9 am-9 pm",
-			"updated":"2025-08-12"
+			"hours5":"2 pm-9 pm (8/22)",
+			"hours6":"2 pm-9 pm (8/23)",
+			"hours7":"2 pm-12 am (8/24)",
+			"updated":"2025-08-18"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"11 am-7 pm",
 			"hours3":"11 am-7 pm",
 			"hours4":"11 am-7 pm",
-			"hours5":"11 am-7 pm",
-			"hours6":"11 am-5 pm",
-			"hours7":"11 am-5 pm",
-			"updated":"2025-07-08"
+			"hours5":"2 pm-7 pm (8/22)",
+			"hours6":"2 pm-6 pm (8/23)",
+			"hours7":"2 pm-6 pm (8/24)",
+			"updated":"2025-08-18"
 		}
 		,				{
 			"id":"1143",
@@ -108,11 +108,11 @@
 			"hours1":"CLOSED (8/18)",
 			"hours2":"CLOSED (8/19)",
 			"hours3":"CLOSED (8/20)",
-			"hours4":"11 am-1 pm",
-			"hours5":"11 am-1 pm",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-08-13"
+			"hours4":"CLOSED (8/21)",
+			"hours5":"CLOSED (8/22)",
+			"hours6":"CLOSED (8/23)",
+			"hours7":"CLOSED (8/24)",
+			"updated":"2025-08-18"
 		}
 		,				{
 			"id":"1085",
@@ -126,12 +126,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"CLOSED (8/18)",
 			"hours2":"CLOSED (8/19)",
-			"hours3":"12 pm-6 pm",
-			"hours4":"12 pm-6 pm",
-			"hours5":"12 pm-6 pm",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-08-13"
+			"hours3":"CLOSED (8/20)",
+			"hours4":"CLOSED (8/21)",
+			"hours5":"CLOSED (8/22)",
+			"hours6":"CLOSED (8/23)",
+			"hours7":"CLOSED (8/24)",
+			"updated":"2025-08-18"
 		}
 		,				{
 			"id":"585",
@@ -185,10 +185,10 @@
 			"hours2":"7 am-9 pm",
 			"hours3":"7 am-9 pm",
 			"hours4":"7 am-9 pm",
-			"hours5":"7 am-9 pm",
-			"hours6":"8 am-8 pm",
-			"hours7":"8 am-9 pm",
-			"updated":"2025-07-08"
+			"hours5":"2 pm-9 pm (8/22)",
+			"hours6":"CLOSED (8/23)",
+			"hours7":"2 pm-9 pm (8/24)",
+			"updated":"2025-08-18"
 		}
 		,				{
 			"id":"1197",
