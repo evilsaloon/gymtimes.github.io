@@ -14,10 +14,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"2 pm-9 pm (8/22)",
-			"hours6":"2 pm-9 pm (8/23)",
-			"hours7":"2 pm-12 am (8/24)",
-			"updated":"2025-08-22"
+			"hours5":"6 am-11 pm",
+			"hours6":"CLOSED (8/30)",
+			"hours7":"9 am-12 am",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1110",
@@ -33,10 +33,10 @@
 			"hours2":"6 am-8 pm",
 			"hours3":"6 am-8 pm",
 			"hours4":"6 am-8 pm",
-			"hours5":"2 pm-7 pm (8/22)",
-			"hours6":"2 pm-6 pm (8/23)",
-			"hours7":"2 pm-6 pm (8/24)",
-			"updated":"2025-08-22"
+			"hours5":"6 am-8 pm",
+			"hours6":"CLOSED (8/30)",
+			"hours7":"9 am-6 pm",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1143",
@@ -52,10 +52,10 @@
 			"hours2":"12 pm-6 pm",
 			"hours3":"12 pm-6 pm",
 			"hours4":"12 pm-6 pm",
-			"hours5":"1 pm-5 pm",
+			"hours5":"12 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-08-22"
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1141",
@@ -71,10 +71,10 @@
 			"hours2":"4 pm-11 pm",
 			"hours3":"4 pm-11 pm",
 			"hours4":"4 pm-11 pm",
-			"hours5":"5 pm-9 pm",
-			"hours6":"CLOSED",
+			"hours5":"4 pm-11 pm",
+			"hours6":"CLOSED (8/30)",
 			"hours7":"CLOSED",
-			"updated":"2025-08-22"
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1142",
@@ -109,10 +109,10 @@
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
-			"hours5":"CLOSED (8/22)",
-			"hours6":"CLOSED (8/23)",
-			"hours7":"CLOSED (8/24)",
-			"updated":"2025-08-22"
+			"hours5":"6 am-11 pm",
+			"hours6":"CLOSED (8/30)",
+			"hours7":"9 am-12 am",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1085",
@@ -128,10 +128,10 @@
 			"hours2":"11 am-11 pm",
 			"hours3":"11 am-11 pm",
 			"hours4":"11 am-11 pm",
-			"hours5":"CLOSED (8/22)",
-			"hours6":"CLOSED (8/23)",
-			"hours7":"CLOSED (8/24)",
-			"updated":"2025-08-22"
+			"hours5":"11 am-10 pm",
+			"hours6":"11 am-8 pm",
+			"hours7":"11 am-11 pm",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"585",
@@ -166,10 +166,10 @@
 			"hours2":"6:30 am-10 pm",
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-08-22"
+			"hours5":"6:30 am-10 pm",
+			"hours6":"10 am-1:30 pm (8/30)",
+			"hours7":"10 am-7 pm",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"587",
@@ -185,10 +185,10 @@
 			"hours2":"6:30 am-9 pm",
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
-			"hours5":"2 pm-9 pm (8/22)",
-			"hours6":"CLOSED (8/23)",
-			"hours7":"2 pm-9 pm (8/24)",
-			"updated":"2025-08-22"
+			"hours5":"6:30 am-9 pm",
+			"hours6":"CLOSED (8/30)",
+			"hours7":"7 am-11 pm",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"1197",
@@ -223,10 +223,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"1 pm-7 pm (8/22)",
-			"hours6":"9:30 am-8 pm",
-			"hours7":"10 am-8 pm",
-			"updated":"2025-08-22"
+			"hours5":"4 pm-7 pm",
+			"hours6":"10 am-7 pm",
+			"hours7":"10 am-7 pm",
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"588",
@@ -243,9 +243,9 @@
 			"hours3":"8 am-5 pm",
 			"hours4":"8 am-5 pm",
 			"hours5":"8 am-8 pm",
-			"hours6":"8 am-8 pm",
+			"hours6":"CLOSED (8/30)",
 			"hours7":"8 am-8 pm",
-			"updated":"2025-05-05"
+			"updated":"2025-08-25"
 		}
 		,				{
 			"id":"589",
@@ -261,10 +261,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-05-05"
+			"hours5":"4 pm-10 pm",
+			"hours6":"CLOSED (8/30)",
+			"hours7":"11 am-7 pm",
+			"updated":"2025-08-25"
 		}
 					]
 }
