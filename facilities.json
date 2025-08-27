@@ -10,14 +10,14 @@
 			"phonecall":"814-867-5479",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6 am-12 am",
+			"hours1":"9 am-12 am (9/1)",
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
 			"hours6":"CLOSED (8/30)",
 			"hours7":"9 am-12 am",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"1110",
@@ -29,14 +29,14 @@
 			"phonecall":"814-867-1058",
 			"email":"campusrec@psu.edu",
 			"website":"",
-			"hours1":"6 am-8 pm",
+			"hours1":"9 am-8 pm (9/1)",
 			"hours2":"6 am-8 pm",
 			"hours3":"6 am-8 pm",
 			"hours4":"6 am-8 pm",
 			"hours5":"6 am-8 pm",
 			"hours6":"CLOSED (8/30)",
 			"hours7":"9 am-6 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"1143",
@@ -105,14 +105,14 @@
 			"phonecall":"814-867-2083",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6 am-12 am",
+			"hours1":"9 am-12 am (9/1)",
 			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
 			"hours6":"CLOSED (8/30)",
 			"hours7":"9 am-12 am",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"1085",
@@ -162,14 +162,14 @@
 			"phonecall":"814-867-1222",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
-			"hours1":"6:30 am-10 pm",
+			"hours1":"CLOSED (9/1)",
 			"hours2":"6:30 am-10 pm",
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
 			"hours5":"6:30 am-10 pm",
 			"hours6":"10 am-1:30 pm (8/30)",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"587",
@@ -181,14 +181,14 @@
 			"phonecall":"814-865-1381",
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
-			"hours1":"6:30 am-9 pm",
+			"hours1":"9 am-9 pm (9/1)",
 			"hours2":"6:30 am-9 pm",
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
 			"hours5":"6:30 am-9 pm",
 			"hours6":"CLOSED (8/30)",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"1197",
@@ -219,14 +219,14 @@
 			"phonecall":"814-863-1164",
 			"email":"stonevalley@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/programs/outdoor-adventures",
-			"hours1":"CLOSED",
+			"hours1":"10 am-7 pm (9/1)",
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"4 pm-7 pm",
 			"hours6":"10 am-7 pm",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-08-27"
 		}
 		,				{
 			"id":"588",
