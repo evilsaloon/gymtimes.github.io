@@ -96,8 +96,27 @@
 			"updated":"2025-09-03"
 		}
 		,				{
+			"id":"1308",
+			"facilityname":"06. IM Building R&R Lounge",
+			"facilityaddress":"101 Intramural Building, University Park PA 16802",
+			"latitude":"40.80754",
+			"longitude":"-77.858559",
+			"title":"Operating Hours (Reservation Required)",
+			"phonecall":"",
+			"email":"",
+			"website":"",
+			"hours1":"11 am-2 pm; 3 pm-8 p",
+			"hours2":"11 am-2 pm; 3 pm-8 p",
+			"hours3":"11 am-2 pm; 3 pm-8 p",
+			"hours4":"11 am-2 pm; 3 pm-8 p",
+			"hours5":"11 am-2 pm; 3 pm-6 p",
+			"hours6":"11 am-3 pm",
+			"hours7":"4 pm-8 pm",
+			"updated":"2025-09-05"
+		}
+		,				{
 			"id":"583",
-			"facilityname":"06. White Building",
+			"facilityname":"07. White Building",
 			"facilityaddress":"105 White Building, University Park, PA 16801",
 			"latitude":"40.79845",
 			"longitude":"-77.859305",
@@ -112,11 +131,11 @@
 			"hours5":"6 am-11 pm",
 			"hours6":"8 am-9 pm",
 			"hours7":"9 am-12 am",
-			"updated":"2025-09-04"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"1085",
-			"facilityname":"07. White Building Esports Center",
+			"facilityname":"08. White Building Esports Center",
 			"facilityaddress":"Shortlidge Road, University Park, PA 16802",
 			"latitude":"40.79845",
 			"longitude":"-77.859305",
@@ -131,11 +150,11 @@
 			"hours5":"11 am-10 pm",
 			"hours6":"11 am-8 pm",
 			"hours7":"11 am-11 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"585",
-			"facilityname":"08. Aquatics and Pool Schedules",
+			"facilityname":"09. Aquatics and Pool Schedules",
 			"facilityaddress":"McCoy Natatorium University Park, PA 16802",
 			"latitude":"40.80425",
 			"longitude":"-77.860853",
@@ -150,11 +169,11 @@
 			"hours5":"Click 'Open Website'",
 			"hours6":"Click 'Open Website'",
 			"hours7":"Click 'Open Website'",
-			"updated":"2024-08-23"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"584",
-			"facilityname":"09. Hepper Fitness Center",
+			"facilityname":"10. Hepper Fitness Center",
 			"facilityaddress":"Rec Hall, University Park, PA 16801",
 			"latitude":"40.794993",
 			"longitude":"-77.868867",
@@ -169,11 +188,11 @@
 			"hours5":"6:30 am-10 pm",
 			"hours6":"CLOSED (9/6)",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-09-03"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"587",
-			"facilityname":"10. Tennis Center",
+			"facilityname":"11. Tennis Center",
 			"facilityaddress":"Tennis Center University Park, PA 16802",
 			"latitude":"40.805568",
 			"longitude":"-77.856798",
@@ -188,11 +207,11 @@
 			"hours5":"6:30 am-9 pm",
 			"hours6":"CLOSED (9/6)",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-09-03"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"1197",
-			"facilityname":"11. Outdoor Pickleball Courts",
+			"facilityname":"12. Outdoor Pickleball Courts",
 			"facilityaddress":"Curtin Rd, State College, PA 16802",
 			"latitude":"40.80509",
 			"longitude":"-77.86005",
@@ -207,11 +226,11 @@
 			"hours5":"Dawn-Dusk",
 			"hours6":"Dawn-Dusk",
 			"hours7":"Dawn-Dusk",
-			"updated":"2025-05-27"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"586",
-			"facilityname":"12. Stone Valley Boat Rentals",
+			"facilityname":"13. Stone Valley Boat Rentals",
 			"facilityaddress":"Stone Valley Recreation Area, Charter Oak Road, Petersburg, Barree Township, PA 16669",
 			"latitude":"40.663274",
 			"longitude":"-77.912275",
@@ -226,11 +245,11 @@
 			"hours5":"4 pm-7 pm",
 			"hours6":"10 am-7 pm",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-09-03"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"588",
-			"facilityname":"13. Park Avenue Fields",
+			"facilityname":"14. Park Avenue Fields",
 			"facilityaddress":"101 Intramural (IM) Building University Park, PA 16802",
 			"latitude":"40.809392",
 			"longitude":"77.86405",
@@ -245,11 +264,11 @@
 			"hours5":"8 am-8 pm",
 			"hours6":"CLOSED (8/30)",
 			"hours7":"8 am-8 pm",
-			"updated":"2025-08-25"
+			"updated":"2025-09-05"
 		}
 		,				{
 			"id":"589",
-			"facilityname":"14. West Turf Fields",
+			"facilityname":"15. West Turf Fields",
 			"facilityaddress":"101 Intramural (IM) Building University Park, PA 16802",
 			"latitude":"40.793336",
 			"longitude":"-77.871529",
@@ -264,7 +283,7 @@
 			"hours5":"4 pm-10 pm",
 			"hours6":"CLOSED (9/6)",
 			"hours7":"11 am-7 pm",
-			"updated":"2025-09-03"
+			"updated":"2025-09-05"
 		}
 					]
 }
