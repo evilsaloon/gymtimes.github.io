@@ -15,9 +15,9 @@
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"9 am-12 am",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"1110",
@@ -34,9 +34,9 @@
 			"hours3":"7:30 am-8 pm",
 			"hours4":"7:30 am-8 pm",
 			"hours5":"7:30 am-8 pm",
-			"hours6":"8 am-6 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"9 am-6 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"1143",
@@ -110,9 +110,9 @@
 			"hours3":"11 am-2 pm; 3 pm-8 p",
 			"hours4":"11 am-2 pm; 3 pm-8 p",
 			"hours5":"11 am-2 pm; 3 pm-6 p",
-			"hours6":"11 am-3 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"4 pm-8 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"583",
@@ -186,9 +186,9 @@
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
 			"hours5":"6:30 am-10 pm",
-			"hours6":"10 am-7 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"587",
@@ -205,9 +205,9 @@
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
 			"hours5":"6:30 am-9 pm",
-			"hours6":"7 am-11 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"1197",
@@ -230,7 +230,7 @@
 		}
 		,				{
 			"id":"586",
-			"facilityname":"13. Stone Valley Boat Rentals",
+			"facilityname":"13. Stone Valley Cross Country Ski Rentals",
 			"facilityaddress":"Stone Valley Recreation Area, Charter Oak Road, Petersburg, Barree Township, PA 16669",
 			"latitude":"40.663274",
 			"longitude":"-77.912275",
@@ -243,9 +243,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"CLOSED",
-			"hours6":"11 am-6 pm",
-			"hours7":"11 am-6 pm",
-			"updated":"2025-09-29"
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"588",
@@ -262,9 +262,9 @@
 			"hours3":"8 am-5 pm",
 			"hours4":"8 am-5 pm",
 			"hours5":"8 am-8 pm",
-			"hours6":"8 am-8 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"8 am-8 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 		,				{
 			"id":"589",
@@ -281,9 +281,9 @@
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
 			"hours5":"4 pm-10 pm",
-			"hours6":"11 am-7 pm",
+			"hours6":"CLOSED (11/8)",
 			"hours7":"11 am-7 pm",
-			"updated":"2025-10-13"
+			"updated":"2025-11-03"
 		}
 					]
 }
