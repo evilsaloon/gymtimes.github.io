@@ -33,10 +33,10 @@
 			"hours2":"11 am-5 pm (11/25)",
 			"hours3":"11 am-3 pm (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"7:30 am-8 pm",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"11 am-5 pm (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"9 am-6 pm (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1143",
@@ -51,11 +51,11 @@
 			"hours1":"CLOSED (11/24)",
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
-			"hours4":"12 pm-6 pm",
-			"hours5":"12 pm-6 pm",
+			"hours4":"CLOSED (11/27)",
+			"hours5":"CLOSED (11/28)",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-11-20"
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1141",
@@ -71,10 +71,10 @@
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"6 pm-11 pm",
+			"hours5":"CLOSED (11/28)",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-11-21"
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1142",
@@ -90,10 +90,10 @@
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"4 pm-6 pm",
+			"hours5":"CLOSED (11/28)",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2025-11-21"
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1308",
@@ -109,10 +109,10 @@
 			"hours2":"10 am-1 pm (10/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"11 am-2 pm; 3 pm-6 p",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"CLOSED (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"CLOSED (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"583",
@@ -147,10 +147,10 @@
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"11 am-10 pm",
-			"hours6":"11 am-4 pm (11/22)",
-			"hours7":"CLOSED (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"CLOSED (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"585",
