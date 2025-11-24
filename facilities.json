@@ -14,10 +14,10 @@
 			"hours2":"6 am-7 pm (11/25)",
 			"hours3":"6 am-5 pm (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"6 am-11 pm",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"9 am-7 pm (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"9 am-12 am (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1110",
@@ -128,10 +128,10 @@
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"6 am-11 pm",
-			"hours6":"8 am-5 pm (11/22)",
-			"hours7":"CLOSED (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"CLOSED (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1085",
@@ -185,10 +185,10 @@
 			"hours2":"CLOSED (11/25)",
 			"hours3":"CLOSED (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"6:30 am-10 pm",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"CLOSED (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"CLOSED (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"587",
@@ -204,10 +204,10 @@
 			"hours2":"9 am-7 pm (11/25)",
 			"hours3":"9 am-5 pm (11/26)",
 			"hours4":"CLOSED (11/27)",
-			"hours5":"6:30 am-9 pm",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"9 am-7 pm (11/23)",
-			"updated":"2025-11-21"
+			"hours5":"CLOSED (11/28)",
+			"hours6":"CLOSED (11/29)",
+			"hours7":"CLOSED (11/30)",
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"1197",
@@ -262,9 +262,9 @@
 			"hours3":"8 am-5 pm",
 			"hours4":"8 am-5 pm",
 			"hours5":"8 am-8 pm",
-			"hours6":"CLOSED (11/22)",
+			"hours6":"8 am-8 pm",
 			"hours7":"8 am-8 pm",
-			"updated":"2025-11-19"
+			"updated":"2025-11-24"
 		}
 		,				{
 			"id":"589",
@@ -280,10 +280,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"4 pm-10 pm",
-			"hours6":"CLOSED (11/22)",
-			"hours7":"CLOSED (11/23)",
-			"updated":"2025-11-19"
+			"hours5":"CLOSED",
+			"hours6":"CLOSED",
+			"hours7":"CLOSED",
+			"updated":"2025-11-24"
 		}
 					]
 }
