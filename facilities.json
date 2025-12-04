@@ -11,13 +11,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6 am-12 am",
-			"hours2":"12 pm-12 am (12/2)",
+			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
 			"hours6":"8 am-9 pm",
 			"hours7":"9 am-12 am",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"1110",
@@ -30,13 +30,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"",
 			"hours1":"7:30 am-8 pm",
-			"hours2":"12 pm-8 pm (12/2)",
+			"hours2":"7:30 am-8 pm",
 			"hours3":"7:30 am-8 pm",
 			"hours4":"7:30 am-8 pm",
 			"hours5":"7:30 am-8 pm",
 			"hours6":"8 am-6 pm",
 			"hours7":"9 am-6 pm",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"1143",
@@ -106,13 +106,13 @@
 			"email":"",
 			"website":"https://pennstatecampusrec.org/booking",
 			"hours1":"11 am-2 pm; 3-8 pm",
-			"hours2":"12-2 pm; 3-8 pm(12/2",
+			"hours2":"11 am-2 pm; 3-8 pm",
 			"hours3":"11 am-2 pm; 3-8 pm",
 			"hours4":"11 am-2 pm; 3-8 pm",
 			"hours5":"11 am-2 pm; 3-6 pm",
 			"hours6":"11 am-3 pm",
 			"hours7":"4 pm-8 pm",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"583",
@@ -125,13 +125,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6 am-12 am",
-			"hours2":"12 pm-12 am (12/2)",
+			"hours2":"6 am-12 am",
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
 			"hours6":"8 am-9 pm",
 			"hours7":"9 am-12 am",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"1085",
@@ -144,13 +144,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"11 am-11 pm",
-			"hours2":"12 pm-11 pm (12/2)",
+			"hours2":"11 am-11 pm",
 			"hours3":"11 am-11 pm",
 			"hours4":"11 am-11 pm",
 			"hours5":"11 am-10 pm",
 			"hours6":"7 am-11 pm",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"585",
@@ -182,13 +182,13 @@
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6:30 am-10 pm",
-			"hours2":"12 pm-10 pm (12/2)",
+			"hours2":"6:30 am-10 pm",
 			"hours3":"6:30 am-10 pm",
 			"hours4":"6:30 am-10 pm",
 			"hours5":"6:30 am-10 pm",
 			"hours6":"10 am-7 pm",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"587",
@@ -201,13 +201,13 @@
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
 			"hours1":"6:30 am-9 pm",
-			"hours2":"12 pm-9 pm (12/2)",
+			"hours2":"6:30 am-9 pm",
 			"hours3":"6:30 am-9 pm",
 			"hours4":"6:30 am-9 pm",
 			"hours5":"6:30 am-9 pm",
 			"hours6":"7 am-11 pm",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-12-02"
+			"updated":"2025-12-04"
 		}
 		,				{
 			"id":"1197",
