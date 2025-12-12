@@ -12,12 +12,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6 am-12 am",
 			"hours2":"6 am-12 am",
-			"hours3":"6 am-12 am",
-			"hours4":"6 am-12 am",
+			"hours3":"6 am-9 pm (12/17)",
+			"hours4":"6 am-8 pm (12/18)",
 			"hours5":"6 am-11 pm",
 			"hours6":"8 am-9 pm",
 			"hours7":"9 am-12 am",
-			"updated":"2025-12-04"
+			"updated":"2025-12-12"
 		}
 		,				{
 			"id":"1110",
@@ -31,12 +31,12 @@
 			"website":"",
 			"hours1":"7:30 am-8 pm",
 			"hours2":"7:30 am-8 pm",
-			"hours3":"7:30 am-8 pm",
-			"hours4":"7:30 am-8 pm",
+			"hours3":"7:30 am-7 pm (12/17)",
+			"hours4":"7:30 am-7 pm (12/18)",
 			"hours5":"7:30 am-8 pm",
 			"hours6":"8 am-6 pm",
 			"hours7":"9 am-6 pm",
-			"updated":"2025-12-04"
+			"updated":"2025-12-12"
 		}
 		,				{
 			"id":"1143",
@@ -126,12 +126,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6 am-12 am",
 			"hours2":"6 am-12 am",
-			"hours3":"6 am-12 am",
-			"hours4":"6 am-12 am",
+			"hours3":"6 am-9 pm (12/17)",
+			"hours4":"CLOSED (12/18)",
 			"hours5":"6 am-11 pm",
 			"hours6":"8 am-9 pm",
 			"hours7":"9 am-12 am",
-			"updated":"2025-12-04"
+			"updated":"2025-12-12"
 		}
 		,				{
 			"id":"1085",
@@ -145,12 +145,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"11 am-11 pm",
 			"hours2":"11 am-11 pm",
-			"hours3":"11 am-11 pm",
-			"hours4":"11 am-11 pm",
+			"hours3":"11 am-8 pm (12/17)",
+			"hours4":"CLOSED (12/18)",
 			"hours5":"11 am-10 pm",
 			"hours6":"7 am-11 pm",
 			"hours7":"7 am-11 pm",
-			"updated":"2025-12-04"
+			"updated":"2025-12-12"
 		}
 		,				{
 			"id":"585",
@@ -183,12 +183,12 @@
 			"website":"https://studentaffairs.psu.edu/campusrec/facilities",
 			"hours1":"6:30 am-10 pm",
 			"hours2":"6:30 am-10 pm",
-			"hours3":"6:30 am-10 pm",
-			"hours4":"6:30 am-10 pm",
+			"hours3":"6:30 am-9 pm (12/17)",
+			"hours4":"CLOSED (12/18)",
 			"hours5":"6:30 am-10 pm",
 			"hours6":"10 am-7 pm",
 			"hours7":"10 am-7 pm",
-			"updated":"2025-12-04"
+			"updated":"2025-12-12"
 		}
 		,				{
 			"id":"587",
