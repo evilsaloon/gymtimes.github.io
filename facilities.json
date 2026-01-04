@@ -10,14 +10,14 @@
 			"phonecall":"814-867-5479",
 			"email":"campusrec@psu.edu",
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/facilities",
-			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-12-24"
+			"hours1":"6:30 am-7 pm (1/5)",
+			"hours2":"6:30 am-7 pm (1/6)",
+			"hours3":"6:30 am-7 pm (1/7)",
+			"hours4":"6:30 am-7 pm (1/8)",
+			"hours5":"6:30 am-7 pm (1/9)",
+			"hours6":"9 am-5 pm (1/10)",
+			"hours7":"9 am-12 am (1/11)",
+			"updated":"2026-01-04"
 		}
 		,				{
 			"id":"1110",
@@ -200,14 +200,14 @@
 			"phonecall":"814-865-1381",
 			"email":"tenniscenter@psu.edu",
 			"website":"https://reservemycourt.com/login",
-			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-12-24"
+			"hours1":"9 am-7 pm (1/5)",
+			"hours2":"9 am-7 pm (1/6)",
+			"hours3":"9 am-7 pm (1/7)",
+			"hours4":"9 am-7 pm (1/8)",
+			"hours5":"9 am-7 pm (1/9)",
+			"hours6":"9 am-7 pm (1/10)",
+			"hours7":"9 am-7 pm (1/11)",
+			"updated":"2026-01-04"
 		}
 		,				{
 			"id":"1197",
