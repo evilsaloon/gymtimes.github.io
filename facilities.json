@@ -12,12 +12,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/facilities",
 			"hours1":"6 am-12 am",
 			"hours2":"6 am-12 am",
-			"hours3":"6:30 am-7 pm (3/11)",
-			"hours4":"6:30 am-7 pm (3/12)",
-			"hours5":"6:30 am-7 pm (3/13)",
-			"hours6":"9 am-7 pm (3/14)",
-			"hours7":"9 am-12 am (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"6 am-12 am",
+			"hours4":"6 am-12 am",
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1110",
@@ -31,12 +31,12 @@
 			"website":"",
 			"hours1":"7:30 am-8 pm",
 			"hours2":"7:30 am-8 pm",
-			"hours3":"11 am-5 pm (3/11)",
-			"hours4":"11 am-5 pm (3/12)",
-			"hours5":"11 am-5 pm (3/13)",
-			"hours6":"12 pm-5 pm (3/14)",
-			"hours7":"12 pm-5 pm (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"7:30 am-8 pm",
+			"hours4":"7:30 am-8 pm",
+			"hours5":"7:30 am-8 pm",
+			"hours6":"8 am-6 pm",
+			"hours7":"9 am-6 pm",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1143",
@@ -50,12 +50,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/programs-classes/outdoor-adventures",
 			"hours1":"12 pm-6 pm",
 			"hours2":"12 pm-6 pm",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
+			"hours3":"12 pm-6 pm",
+			"hours4":"12 pm-6 pm",
+			"hours5":"12 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-03-11"
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1141",
@@ -69,12 +69,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/programs-classes/outdoor-adventures",
 			"hours1":"CLOSED",
 			"hours2":"6 pm-11 pm",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
+			"hours3":"6 pm-11 pm",
+			"hours4":"6 pm-11 pm",
+			"hours5":"6 pm-11 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-03-11"
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1142",
@@ -88,12 +88,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/programs-classes/outdoor-adventures",
 			"hours1":"CLOSED",
 			"hours2":"4 pm-6 pm",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
+			"hours3":"4 pm-6 pm",
+			"hours4":"4 pm-6 pm",
+			"hours5":"4 pm-6 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-03-11"
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1308",
@@ -107,12 +107,12 @@
 			"website":"https://pennstatecampusrec.org/booking",
 			"hours1":"8 am-8 pm",
 			"hours2":"8 am-8 pm",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
-			"hours6":"CLOSED (3/14)",
-			"hours7":"CLOSED (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"8 am-8 pm",
+			"hours4":"8 am-8 pm",
+			"hours5":"8 am-6 pm",
+			"hours6":"11 am-3 pm",
+			"hours7":"4 pm-8 pm",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"583",
@@ -126,12 +126,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/facilities",
 			"hours1":"6 am-12 am",
 			"hours2":"6 am-12 am",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
-			"hours6":"CLOSED (3/14)",
-			"hours7":"CLOSED (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"6 am-12 am",
+			"hours4":"6 am-12 am",
+			"hours5":"6 am-11 pm",
+			"hours6":"8 am-9 pm",
+			"hours7":"9 am-12 am",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1085",
@@ -145,12 +145,12 @@
 			"website":"",
 			"hours1":"11 am-11 pm",
 			"hours2":"11 am-11 pm",
-			"hours3":"1 pm-6 pm (3/11)",
-			"hours4":"1 pm-6 pm (3/12)",
-			"hours5":"1 pm-6 pm (3/13)",
-			"hours6":"CLOSED (3/14)",
-			"hours7":"CLOSED (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"11 am-11 pm",
+			"hours4":"11 am-11 pm",
+			"hours5":"11 am-10 pm",
+			"hours6":"11 am-8 pm",
+			"hours7":"11 am-11 pm",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"585",
@@ -183,12 +183,12 @@
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/facilities",
 			"hours1":"6:30 am-10 pm",
 			"hours2":"6:30 am-10 pm",
-			"hours3":"CLOSED (3/11)",
-			"hours4":"CLOSED (3/12)",
-			"hours5":"CLOSED (3/13)",
-			"hours6":"CLOSED (3/14)",
-			"hours7":"CLOSED (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"6:30 am-10 pm",
+			"hours4":"6:30 am-10 pm",
+			"hours5":"6:30 am-10 pm",
+			"hours6":"9 am-7 pm",
+			"hours7":"9 am-7 pm",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"587",
@@ -202,12 +202,12 @@
 			"website":"https://reservemycourt.com/login",
 			"hours1":"6:30 am-11 pm",
 			"hours2":"6:30 am-11 pm",
-			"hours3":"9 am-9 pm (3/11)",
-			"hours4":"9 am-9 pm (3/12)",
-			"hours5":"9 am-9 pm (3/13)",
-			"hours6":"9 am-7 pm (3/14)",
-			"hours7":"9 am-11 pm (3/15)",
-			"updated":"2026-03-11"
+			"hours3":"6:30 am-11 pm",
+			"hours4":"6:30 am-11 pm",
+			"hours5":"6:30 am-9 pm",
+			"hours6":"7 am-11 pm",
+			"hours7":"7 am-11 pm",
+			"updated":"2026-03-16"
 		}
 		,				{
 			"id":"1197",
