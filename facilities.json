@@ -280,10 +280,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2025-12-17"
+			"hours5":"4 pm-10 pm",
+			"hours6":"11 am-7 pm",
+			"hours7":"11 am-7 pm",
+			"updated":"2026-03-19"
 		}
 					]
 }
