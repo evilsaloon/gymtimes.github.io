@@ -15,9 +15,9 @@
 			"hours3":"6 am-12 am",
 			"hours4":"6 am-12 am",
 			"hours5":"6 am-11 pm",
-			"hours6":"8 am-9 pm",
+			"hours6":"CLOSED (4/25)",
 			"hours7":"9 am-12 am",
-			"updated":"2026-03-16"
+			"updated":"2026-04-21"
 		}
 		,				{
 			"id":"1110",
@@ -230,7 +230,7 @@
 		}
 		,				{
 			"id":"586",
-			"facilityname":"13. Stone Valley Cross Country Ski Rentals",
+			"facilityname":"13. Stone Valley Boat Rentals",
 			"facilityaddress":"Stone Valley Recreation Area, Charter Oak Road, Petersburg, Barree Township, PA 16669",
 			"latitude":"40.663274",
 			"longitude":"-77.912275",
@@ -242,10 +242,10 @@
 			"hours2":"CLOSED",
 			"hours3":"CLOSED",
 			"hours4":"CLOSED",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2026-03-02"
+			"hours5":"2 pm-6 pm",
+			"hours6":"12 pm-6 pm",
+			"hours7":"12 pm-6 pm",
+			"updated":"2026-04-21"
 		}
 		,				{
 			"id":"588",
