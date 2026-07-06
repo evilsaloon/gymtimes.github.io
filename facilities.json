@@ -14,10 +14,10 @@
 			"hours2":"6 am-9 pm",
 			"hours3":"6 am-9 pm",
 			"hours4":"6 am-9 pm",
-			"hours5":"8am-8pm (7/3)",
-			"hours6":"Closed (7/4)",
+			"hours5":"6am-9pm",
+			"hours6":"8am-8pm",
 			"hours7":"9 am-9 pm",
-			"updated":"2026-06-30"
+			"updated":"2026-07-06"
 		}
 		,				{
 			"id":"1110",
@@ -128,10 +128,10 @@
 			"hours2":"11 am-1 pm",
 			"hours3":"11 am-1 pm",
 			"hours4":"11am-1pm",
-			"hours5":"CLOSED (7/3)",
+			"hours5":"11am-1pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-06-30"
+			"updated":"2026-07-06"
 		}
 		,				{
 			"id":"1085",
