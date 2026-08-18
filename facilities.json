@@ -67,14 +67,14 @@
 			"phonecall":"814-863-2895",
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/programs-classes/outdoor-adventures",
-			"hours1":"CLOSED (8/10)",
-			"hours2":"CLOSED (8/11)",
-			"hours3":"CLOSED (8/12)",
-			"hours4":"CLOSED (8/13)",
-			"hours5":"CLOSED (8/14)",
+			"hours1":"5pm-9pm",
+			"hours2":"5pm-9pm",
+			"hours3":"5pm-9pm",
+			"hours4":"5pm-9pm",
+			"hours5":"5pm-9pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-08-11"
+			"updated":"2026-08-18"
 		}
 		,				{
 			"id":"1142",
