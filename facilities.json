@@ -87,13 +87,13 @@
 			"email":"adventure@psu.edu",
 			"website":"https://studentaffairs.psu.edu/health-wellbeing/recreation/programs-classes/outdoor-adventures",
 			"hours1":"CLOSED",
-			"hours2":"CLOSED",
-			"hours3":"CLOSED",
-			"hours4":"CLOSED",
-			"hours5":"CLOSED",
+			"hours2":"4 pm-11 pm",
+			"hours3":"4 pm-11 pm",
+			"hours4":"4 pm-11 pm",
+			"hours5":"4 pm-11 pm",
 			"hours6":"CLOSED",
 			"hours7":"CLOSED",
-			"updated":"2026-05-01"
+			"updated":"2026-08-25"
 		}
 		,				{
 			"id":"1308",
@@ -105,14 +105,14 @@
 			"phonecall":"",
 			"email":"",
 			"website":"https://pennstatecampusrec.org/booking",
-			"hours1":"11 am-5 pm",
-			"hours2":"11 am-5 pm",
-			"hours3":"11 am-5 pm",
-			"hours4":"11 am-5 pm",
-			"hours5":"CLOSED",
-			"hours6":"CLOSED",
-			"hours7":"CLOSED",
-			"updated":"2026-05-08"
+			"hours1":"8 am-8 pm",
+			"hours2":"8 am-8 pm",
+			"hours3":"8 am-8 pm",
+			"hours4":"8 am-8 pm",
+			"hours5":"8 am-6 pm",
+			"hours6":"11 am-3 pm",
+			"hours7":"4 pm-8 pm",
+			"updated":"2026-08-25"
 		}
 		,				{
 			"id":"583",
